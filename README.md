@@ -2,4 +2,5 @@
 
 Template voor Afdeling Standaarden.
 
-# Link naar omgeving: https://logius-standaarden.github.io/Beheer-Procedure-Standaarden/
+# Link naar omgeving
+https://logius-standaarden.github.io/Beheer-Procedure-Standaarden/
