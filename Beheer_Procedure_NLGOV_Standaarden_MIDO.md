@@ -17,7 +17,7 @@ Als het voorstel wordt goedgekeurd wordt het voorstel door Beheer indien nodig v
 
 Het onderstaande schema geeft het proces mbt beoordelen van wijzigingsvoorstellen in hoofdlijnen weer:
 
-![Alt text](./mido_rfc_release_rfc.svg)
+![Alt text](./media/mido_rfc_release_rfc.svg)
 
 [Legenda](#bijlage-bpmn-legenda)
 
