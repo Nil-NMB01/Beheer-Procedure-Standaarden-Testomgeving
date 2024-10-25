@@ -38,7 +38,7 @@ In het Release Planning Proces worden de goedgekeurde Wijzigingsvoorstellen opge
 
 Het onderstaande schema geeft het Release Planning Proces in hoofdlijnen weer:
 
-<img src="./media/mido_releaseplan.svg" width="70%" >
+<img src="./media/mido_releaseplan.svg" width="70%" alt="Description of the release plan image">
 
 [Legenda](#bijlage-bpmn-legenda)
 
