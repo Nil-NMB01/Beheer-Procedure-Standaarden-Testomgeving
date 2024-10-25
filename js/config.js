@@ -8,7 +8,7 @@ var respecConfig = {
   shortName: "template",
   publishDate: "2023-01-31",
   publishVersion: "0.0.1",
-  title: "Template",
+  title: "Beheer Procedure Standaarden",
   // previousPublishVersion: "(none)",
   content: {"ch01": "informative", "ch02": "", "mermaid": ""},
   editors:
