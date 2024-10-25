@@ -38,7 +38,7 @@ In het Release Planning Proces worden de goedgekeurde Wijzigingsvoorstellen opge
 
 Het onderstaande schema geeft het Release Planning Proces in hoofdlijnen weer:
 
-<img src="./mido_releaseplan.svg" width="70%" >
+<img src="./media/mido_releaseplan.svg" width="70%" >
 
 [Legenda](#bijlage-bpmn-legenda)
 
@@ -58,7 +58,7 @@ De nieuwe versie wordt vervolgens publiek geconsulteerd, en de resultaten van de
 Na Goedkeuring wordt de standaard door Beheer gepubliceerd.
 
 
-![Alt text](./mido_rfc_release_kpapi.svg)
+![Alt text](./media/mido_rfc_release_kpapi.svg)
 
 
 [Legenda](#bijlage-bpmn-legenda)
@@ -158,6 +158,6 @@ Zie als voorbeeld van de State of this document de onderstaande tabel:
 
 ## Bijlage BPMN Legenda
 
-![Legenda](./BPMN%20Symbolen%20afbeelding.PNG)
+![Legenda](./media/BPMN%20Symbolen%20afbeelding.PNG)
 
 
