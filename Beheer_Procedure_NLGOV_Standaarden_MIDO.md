@@ -1,5 +1,3 @@
-# Logius Standaarden
-
 # Beheerproces NLGOV standaarden onder MIDO Governance
 
 Dit document geeft het beheerproces voor standaarden in hoofdlijnen weer voor goedkeuring van NLGOV Standaarden i.c.m. MIDO Governance.
