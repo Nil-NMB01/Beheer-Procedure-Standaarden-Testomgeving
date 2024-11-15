@@ -155,9 +155,59 @@ Zie als voorbeeld van de State of this document de onderstaande tabel:
 | PR:Release_ Goedgekeurd | Release goedgekeurd door Programmeringsraad |
 | Vastgesteld | Release vastgesteld |
 
-
 ## Bijlage BPMN Legenda
 
 ![Legenda](./media/BPMN%20Symbolen%20afbeelding.PNG)
 
 
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Beheerproces NLGOV Standaarden onder MIDO Governance</title>
+    <script type="application/javascript" src="https://cdn.rawgit.com/w3c/respec/gh-pages/respec.js"></script>
+  </head>
+
+  <body>
+    <section>
+      <h1>Beheerproces NLGOV Standaarden onder MIDO Governance</h1>
+      <p>Dit document geeft het beheerproces voor standaarden in hoofdlijnen weer voor goedkeuring van NLGOV Standaarden i.c.m. MIDO Governance. De NLGOV Standaarden worden door Logius beheerd volgens <a href="https://github.com/Logius-standaarden">Beheermodellen</a> gebaseerd op <a href="https://www.logius.nl/domeinen/infrastructuur/bomos">BOMOS</a>.</p>
+      <p>In de onderstaande hoofdstukken wordt ingegaan op het RFC Proces voor het verwerken van wijzigingsvoorstellen, het Release planningsproces en het Release proces.</p>
+      
+      <h2>Begrippenlijst</h2>
+      <dl>
+        <dt>Gremium</dt>
+        <dd><p><strong>Gremium:</strong> Een formeel overlegorgaan of comité waarin beslissingen worden genomen of adviezen worden gegeven over specifieke onderwerpen, in deze context de besluitvorming en coordinatie rondom de infrastructuur en digitale ontwikkeling van de Digitale Overheid.</p></dd>
+
+        <dt>KPAPI (Kennisplatform API)</dt>
+        <dd><p><strong>KPAPI (Kennisplatform API):</strong> Het Kennisplatform API is een open platform, waar overheden, marktpartijen, gebruikers en aanbieders samen werken aan een Nederlandse API strategie en alles wat daarbij komt kijken. Hiernaast is er ook een stuurgroep van deze platform en die heeft een adviserende rol in geval van de normatieve standaarden die onder MIDO governance vallen. De stuurgroep wordt geinformeerd over ontwikkelingen en de besluitvorming vind vervolgens plaats in het MIDO.</p></dd>
+
+        <dt>Major change</dt>
+        <dd><p><strong>Major change:</strong> Een major change is een grote wijziging en wordt bij de definitieve release voor vaststelling zowel geagendeerd bij de MIDO Programmeringstafel als bij de MIDO Programmeringsraad. Grote wijzigingen worden alleen geagendeerd bij de Programmeringsraad en kleine wijzigingen niet (minor changes).</p></dd>
+
+        <dt>MIDO (Meerjarenprogramma Infrastructuur Digitale Overheid)</dt>
+        <dd><p><strong>MIDO (Meerjarenprogramma Infrastructuur Digitale Overheid):</strong> Het MIDO is een samenwerkingsprogramma van overheden en publieke dienstverleners dat gericht is op de modernisering en gezamenlijke governance van de Generieke Digitale Infrastructuur (GDI), met als doel veilige, toegankelijke en betrouwbare digitale publieke dienstverlening te waarborgen.</p></dd>
+
+        <dt>MIDO Programmeringstafel</dt>
+        <dd><p><strong>MIDO Programmeringstafel:</strong> Het programmeringstafel is een inhoudelijke voorbereiding, overleg en afstemming van plannen tussen betrokken partijen binnen het MIDO programma.</p></dd>
+
+        <dt>MIDO Programmeringsraad</dt>
+        <dd><p><strong>MIDO Programmeringsraad:</strong> De programmeringsraad is een beslissend orgaan, waarin de strategische besluitvorming en goedkeuring van plannen en dergelijke dingen plaatsvinden binnen het MIDO programma.</p></dd>
+
+        <dt>Minor change</dt>
+        <dd><p><strong>Minor change:</strong> Een minor change is een kleine wijziging en wordt bij de definitieve release voor vaststelling alleen geagendeerd bij het MIDO Programmeringstafel.</p></dd>
+
+        <dt>Release planningsproces</dt>
+        <dd><p><strong>Release planningsproces:</strong> In het Release Planning Proces worden de goedgekeurde Wijzigingsvoorstellen opgenomen in een bepaalde release van de standaard.</p></dd>
+
+        <dt>Release proces</dt>
+        <dd><p><strong>Release proces:</strong> In het Releaseproces wordt een volgende release van de standaard samengesteld door Beheer conform het Releaseplan.</p></dd>
+
+        <dt>RFC (Request for Change)</dt>
+        <dd><p><strong>RFC (Request for Change):</strong> Het RFC is een binnen gekomen wijzigingsvoorstel dat door Beheer wordt beoordeeld en voorgelegd aan het Technisch Overleg (of direct aan een hoger Stuurgroep/MIDO gremium als het voorstel een tactisch / strategisch vraagstuk betreft).</p></dd>
+
+        <dt>TO (Technisch Overleg)</dt>
+        <dd><p><strong>TO (Technisch Overleg):</strong> Het technisch overleg bespreekt actuele vraagstukken en ontwikkelingen rondom een bepaald standaard en beoordeelt wijzigingen aan de standaard.</p></dd>
+      </dl>
+    </section>
+  </body>
+</html>
